@@ -1,0 +1,19 @@
+h1{
+    color: chocolate;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: 1px solid blue;
+}
+#thirdDiv{
+    background-color: aquamarine;
+}
+#sapnID{
+    font-size: 18px;
+    margin: 50px;
+}
